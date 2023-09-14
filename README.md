@@ -3,6 +3,7 @@ This Git contains the R code and plots of the Master thesis "Estimation under Re
 
 ## Simulations
 Section 6.1:
+
 To perform the outlier experiment with PH-Anchor-RWP run:
 ```
 Rscript ./simulations/simulationAnchor.R
@@ -12,6 +13,7 @@ To perform the anchor transformation experiment run:
 Rscript ./simulations/simulationAnchorTransformation.R
 ```
 Section 6.2:
+
 To run the simulation under latent confounding in Section 6.2 run:
 ```
 Rscript ./simulations/simulationWDRO.R
@@ -29,6 +31,7 @@ To do the Ancestor WDRO run:
 Rscript ./simulations/simulationAncestorWDRO.R
 ```
 Section 6.3:
+
 To obtain the Wasserstein causal regulariser run:
 ```
 Rscript ./simulations/simulationWassersteinCausalRegulariser.R
