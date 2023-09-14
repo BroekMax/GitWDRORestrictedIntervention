@@ -1,6 +1,7 @@
 # WDRORestrictedIntervention Estimation
-This Git contains the R code and plots of the Master thesis "Estimation under Restricted Interventions via Wasserstein Distributionally Robust Optimisation". The methods are in the "src" folder. For instance, the Martingale WDRO estimator can be found in "src" folder.
+This Git contains the R code and plots of the Master thesis "Estimation under Restricted Interventions via Wasserstein Distributionally Robust Optimisation". The methods are in the "src" folder and the simulations are in the "simulations" folder. Within the "simulations folder we have  
 
+## Simulations
 Section 6.1:
 To perform the outlier experiment with PH-Anchor-RWP run:
 ```
@@ -32,6 +33,6 @@ To obtain the Wasserstein causal regulariser run:
 ```
 Rscript ./simulations/simulationWassersteinCausalRegulariser.R
 ```
-<embed src="./simulations/results/regupath.pdf" type=application/pdf">
+
 ## Comments
 Any feedback or comments on the code or methods is more than welcome. Correspondence is at [email](mailto:mvanden@student.ethz.ch).
