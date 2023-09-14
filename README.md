@@ -32,6 +32,6 @@ To obtain the Wasserstein causal regulariser run:
 ```
 Rscript ./simulations/simulationWassersteinCausalRegulariser.R
 ```
-<embed src="./simulations/results
+<embed src="./simulations/results/regupath.pdf" type=application/pdf">
 ## Comments
 Any feedback or comments on the code or methods is more than welcome. Correspondence is at [email](mailto:mvanden@student.ethz.ch).
