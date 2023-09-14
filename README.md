@@ -1,5 +1,5 @@
 # WDRORestrictedIntervention Estimation
-This Git contains the R code and plots of the Master thesis "Estimation under Restricted Interventions via Wasserstein Distributionally Robust Optimisation". The methods are in the "src" folder and the simulations are in the "simulations" folder. Within the "simulations folder we have figures in the "results" folder.    
+This Git contains the R code and plots of the Master Thesis "Estimation under Restricted Interventions via Wasserstein Distributionally Robust Optimisation". The methods are in the "src" folder and the simulations are in the "simulations" folder. Within the "simulations" folder we have figures in the "results" folder.    
 
 ## Simulations
 Section 6.1:
