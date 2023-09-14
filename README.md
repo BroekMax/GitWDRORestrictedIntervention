@@ -11,5 +11,5 @@ Rscript ./simulations/simulationWDRO.R
 ```
 Figures are located in the "results" folder within the "simulations folder. For instance, the regularisation path of the Martingale WDRO:
 <p align="center">  
-    <img src="./simulations/results/regupath.svg" width=75% height=75%>
+    <img src="./simulations/results/regupath.pdf" width=75% height=75%>
 </p> 
